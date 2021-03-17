@@ -5,7 +5,7 @@ uncertainty. */
 
 //-Callbacks
 
-/* setTimeout(()=>{
+setTimeout(()=>{
     console.log("Se ejecuto")
 },5000);
 setTimeout(function(){
@@ -26,7 +26,7 @@ setTimeout(function(){
         }, 4000);
       }, 3000);
     }, 2000);
-  }, 1000); */
+  }, 1000);
   
   // Sorpresa!
   // Esto debería aparecer primero
