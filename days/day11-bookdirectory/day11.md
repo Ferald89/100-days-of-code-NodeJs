@@ -4,10 +4,14 @@ where you would need to create endpoints, using the four
 most basic methods: GET, POST, PUT and DELETE.I
 
 ## Day 11 create the server
+## Day 12 create routers
 
 ### Install
-...
+...bash
 npm i nodemon -D
 npm i express
 npm i dotenv
 ...
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
