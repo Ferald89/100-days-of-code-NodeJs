@@ -20,4 +20,8 @@ Today i wanna practice concepts of OS and General Knowledge, i consider that the
 
 
 ## How OSs Work in general
+https://infinite.education/view/how_oss_work_in_general
+
+## Process Managment
+
 
